@@ -5,6 +5,7 @@ Interactive Python MCQ quiz with:
 - Glassmorphism + neon UI
 - 25 Python MCQs
 - Instant feedback and score
+- Help to improve your knowldge
 
 ### Tech Stack
 - HTML
